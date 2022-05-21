@@ -1,2 +1,2 @@
 # tg-news-bot
-test gpg key
+test gpg key 2
